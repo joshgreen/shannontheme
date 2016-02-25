@@ -55,9 +55,9 @@
            </div>
            <div class="social">
              <ul>
-               <li><a href=""><img src="images/facebook.svg" alt=""></a></li>
-               <li><a href=""><img src="images/twitter.svg" alt=""></a></li>
-               <li><a href=""><img src="images/linkedin.svg" alt=""></a></li>
+               <li><a href=""><img src="<?php bloginfo('template_url'); ?>/images/facebook.svg" alt=""></a></li>
+               <li><a href=""><img src="<?php bloginfo('template_url'); ?>/images/twitter.svg" alt=""></a></li>
+               <li><a href=""><img src="<?php bloginfo('template_url'); ?>/images/linkedin.svg" alt=""></a></li>
              </ul>
            </div>
        </section>
