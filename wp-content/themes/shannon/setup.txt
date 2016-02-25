@@ -1,0 +1,4 @@
+npm install --save-dev gulp
+touch gulpfile.js
+npm i -D imagemin-pngquant
+npm install --save-dev gulp-livereload gulp-sass autoprefixer gulp-postcss gulp-cssnano gulp-rename gulp-imagemin
