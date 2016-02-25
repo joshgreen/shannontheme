@@ -1,6 +1,6 @@
 <?php
 /**
- * Template name: Contact
+ * Template name: Gallery
  *
  * This is the template that displays all pages by default.
  * Please note that this is the WordPress construct of pages
@@ -16,6 +16,7 @@ get_header(); ?>
 
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main max" role="main">
+<h1>bangle face</h1>
 			<?php
 			while ( have_posts() ) : the_post();
 

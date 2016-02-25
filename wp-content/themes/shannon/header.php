@@ -27,7 +27,7 @@
 
     <div class="site-slogan">
 
-				<p class="site-description"><?php echo $description; ?></p>
+				<p class="site-description">Building & Civil Engineering Contractor with over 15 years of experience</p>
 
     </div> <!-- .site-slogan -->
       <div class="search-box">
@@ -67,14 +67,10 @@
          <?php wp_nav_menu( array( 'theme_location' => 'primary', 'menu_id' => 'primary-menu' ) ); ?>
             </nav> <!-- .site-navigation -->
        <div class="contact-menu">
-           <a href="contact.php">Contact us</a>
+           <a href="/contact">Contact us</a>
        </div>
     </div>
   </header> <!-- .site-header -->
-
-
-
-
 
 
 

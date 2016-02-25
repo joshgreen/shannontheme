@@ -48,7 +48,7 @@ gulp.task('watch', function () {
   livereload.listen();
   gulp.watch(Theme+'images/src/*', ['images']);
   gulp.watch(Theme+'sass/*.sass', ['sass']);
-  gulp.watch(Theme+'*.php').on('change', livereload.changed);
+  gulp.watch(Theme+'**').on('change', livereload.changed);
 });
 
 gulp.task('default', ['watch', 'images', 'sass']);
