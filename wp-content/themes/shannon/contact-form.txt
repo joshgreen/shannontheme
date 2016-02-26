@@ -1,0 +1,18 @@
+<div class="col-2">
+<p>Your Name (required)<br />
+    [text* your-name] </p>
+
+<p>Your Email (required)<br />
+    [email* your-email] </p>
+
+<p>Subject<br />
+    [text your-subject] </p>
+<p>Phone<br />
+[tel tel-22] </p>
+</div>
+<div class="col-2">
+<p>Your Message<br />
+    [textarea your-message] </p>
+
+<p>[submit "Send"]</p>
+</div>

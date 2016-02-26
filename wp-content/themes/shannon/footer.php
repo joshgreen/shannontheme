@@ -19,17 +19,17 @@
      <div class="top-footer">
        <section>
          <h5>Driver CPC at Shannon Training</h5>
-         <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam semper dui purus, non mollis sapien lacinia at. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In laoreet, ipsum scelerisque dictum blandit, ligula felis tincidunt risus, et semper nunc lacus a justo. Nullam commodo lectus justo, at auctor magna molestie a. Pellentesque ac sem id mi viverra suscipit. Etiam lacus turpis, scelerisque eu pretium et, feugiat nec dui. Vivamus placerat tristique maximus. Phasellus semper ut augue quis porttitor. Sed feugiat eros a sollicitudin condimentum. Praesent sollicitudin libero lacinia velit sagittis gravida. Aliquam non erat felis. Aenean sit amet aliquam magna, id ultrices lorem. Donec efficitur sollicitudin tortor, auctor maximus felis maximus eget. Vestibulum a magna id arcu rutrum fermentum a ac libero.</p>
+         <p>Courses now available for 2016 @ Shannon Training, book now to get your Driver CPC Periodic Training.</p>
          <p><a href="" class="small">Find out more</a></p>
        </section>
        <section>
-         <h5>Title</h5>
-         <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam semper dui purus, non mollis sapien lacinia at. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In laoreet, ipsum scelerisque dictum blandit, ligula felis tincidunt risus, et semper nunc lacus a justo. Nullam commodo lectus justo, at auctor magna molestie a. Pellentesque ac sem id mi viverra suscipit. Etiam lacus turpis, scelerisque eu pretium et, feugiat nec dui. Vivamus placerat tristique maximus. Phasellus semper ut augue quis porttitor. Sed feugiat eros a sollicitudin condimentum. Praesent sollicitudin libero lacinia velit sagittis gravida. Aliquam non erat felis. Aenean sit amet aliquam magna, id ultrices lorem. Donec efficitur sollicitudin tortor, auctor maximus felis maximus eget. Vestibulum a magna id arcu rutrum fermentum a ac libero.</p>
+         <h5>CSCS Health & Saftey Testse</h5>
+         <p>CSCS Health & Safety tests are an important, without a current Health & Safety test you can be refused onto a construction site.</p>
          <p><a href="" class="small">Find out more</a></p>
        </section>
        <section>
-         <h5>Title</h5>
-         <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam semper dui purus, non mollis sapien lacinia at. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In laoreet, ipsum scelerisque dictum blandit, ligula felis tincidunt risus, et semper nunc lacus a justo. Nullam commodo lectus justo, at auctor magna molestie a. Pellentesque ac sem id mi viverra suscipit. Etiam lacus turpis, scelerisque eu pretium et, feugiat nec dui. Vivamus placerat tristique maximus. Phasellus semper ut augue quis porttitor. Sed feugiat eros a sollicitudin condimentum. Praesent sollicitudin libero lacinia velit sagittis gravida. Aliquam non erat felis. Aenean sit amet aliquam magna, id ultrices lorem. Donec efficitur sollicitudin tortor, auctor maximus felis maximus eget. Vestibulum a magna id arcu rutrum fermentum a ac libero.</p>
+         <h5>CPCS, NPORS & NVQ's</h5>
+         <p>We carry out all our training and assessments at our very own Training centre situated in Iver (Junction 1 on the M40).</p>
          <p><a href="" class="small">Find out more</a></p>
        </section>
      </div>

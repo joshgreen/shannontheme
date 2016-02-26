@@ -1,0 +1,40 @@
+.wpcf7-form
+  @include col-full
+  position: relative
+  div
+    @include col-1-2
+
+  input[type="text"], input[type="email"], input[type="tel"], textarea
+    transition: all 0.30s ease-in-out
+    width: 100%
+    background: #f9f9f9
+    border: 1px solid #ebebeb
+    display: block
+    padding: 1em
+    outline: none
+    &:focus
+      box-shadow: 0 0 5px rgba(81, 203, 238, 1)
+      border: 1px solid rgba(81, 203, 238, 1)
+
+  label
+    position: relative
+    display: block
+    width: 100%
+    span
+      opacity: 0.6
+      position: absolute
+      top: 40px
+
+.wpcf7-submit
+  border-radius: 4px
+  text-transform: uppercase
+  padding: 0.8em 1.2em
+  display: inline-block
+  position: relative
+  background: $grey-2
+  border: 0
+  color: white
+  &:focus
+    box-shadow: none
+    outline: none
+    border: 0

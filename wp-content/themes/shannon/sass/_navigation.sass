@@ -16,6 +16,10 @@
     display: inline
     top: 38px
     cursor: pointer
+  @include breakpoint(small)
+    display: inline
+    top: 38px
+    cursor: pointer
 
 #menu-icon.active .first
   transform: rotate(45deg)
@@ -49,6 +53,12 @@
     clear: both
     float: none
     max-height: 400px
+  @include breakpoint(small)
+    display: none
+    width: 100%
+    clear: both
+    float: none
+    max-height: 400px
 
   ul
     margin: 0
@@ -60,6 +70,15 @@
     @include breakpoint(medium)
       position: absolute
       top: 70px
+      left: -1px
+      border 0
+      height: auto
+      z-index: 20
+      @include group
+    @include breakpoint(small)
+      position: absolute
+      top: 70px
+      left: -1px
       border 0
       height: auto
       z-index: 20
@@ -69,6 +88,10 @@
     display: inline-block
     height: 70px
     @include breakpoint(medium)
+      display: block
+      background: $green
+      height: 40px
+    @include breakpoint(small)
       display: block
       background: $green
       height: 40px
@@ -85,6 +108,10 @@
       padding: 0.8em
       font-size: 0.9em
     @include breakpoint(medium)
+      padding: 0.8em
+      border-right: none
+      border-bottom: 1px solid $light-3
+    @include breakpoint(small)
       padding: 0.8em
       border-right: none
       border-bottom: 1px solid $light-3
