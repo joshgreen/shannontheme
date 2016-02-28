@@ -49,8 +49,8 @@
            </div>
 
            <div class="contact">
-             +44 (0)1895 448 111
-             +44 (0)1895 449 111
+            T: <span itemprop="telephone"><a href="tel:44-01895-448-111">+44 (0)1895 448 111</a></span><br>
+            F: <span itemprop="fax">+44 (0)1895 449 111</span>
              info@theshannongroup.co.uk
            </div>
            <div class="social">

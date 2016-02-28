@@ -41,17 +41,38 @@ section.story
 .site-main
   @include bg-white
 
+.inner
+  @include col-full
+
 .contact-details
   @include col-full
   text-transform: uppercase
   line-height: 1.9em
   font-weight: 700
-  color: $grey-1
+  color: lighten($grey-1, 15%)
+  @include breakpoint(small)
+    font-size: 1.2em
   a
-    color: $grey-1
+    color: lighten($grey-1, 15%)
     border: 0
   div
     @include col-1-3
     text-align: center
+  .contact-icons
+    text-align: center
+    padding: 1em 0
+    width: 100%
+    height: 126px
+    @include breakpoint(small)
+      height: 90px
+
+.contact-map
+  display: inline-block
+  @include col-full
+  padding: 0
+  .map
+    border-top: 100px solid $grey-1
+    height: 400px
+    overflow: hidden
 
 

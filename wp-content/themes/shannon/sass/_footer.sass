@@ -1,4 +1,6 @@
 .site-footer
+  @include breakpoint(small)
+    font-size: 1.4em
 
 .footer-slogan
   background: $green
@@ -6,6 +8,10 @@
   height: 100px
   margin-top: 2em
   padding-top: 1.5em
+  @include breakpoint(medium)
+    height: auto
+  @include breakpoint(small)
+    height: auto
   h1
     border-bottom: none
     color: white
@@ -15,6 +21,7 @@
     font-size: 2.8em
 
 
+
 .top-footer, .bottom-footer
   margin: 0
   padding: 0 2em
@@ -22,7 +29,7 @@
   color: white
   a
     color: white
-    border-bottom: 1px solid white
+    border-bottom: 0
 
   a:hover
     border-bottom-color: none

@@ -3,6 +3,8 @@
   position: relative
   div
     @include col-1-2
+  @include breakpoint(small)
+    font-size: 1.2em
 
   input[type="text"], input[type="email"], input[type="tel"], textarea
     transition: all 0.30s ease-in-out

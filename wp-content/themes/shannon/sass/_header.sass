@@ -96,6 +96,9 @@
     background: $grey-2
     position: absolute
     right: 0px
+    &:focus
+      border: 0
+      outline: none
 
 .search-icon
   width: 80%
@@ -115,9 +118,9 @@
       border: none
     img
       margin: 0.8em 0 0 0
-      max-width: 280px
+      max-width: 283px
       @include breakpoint(large)
-        max-width: 250px
+        max-width: 262px
       @include breakpoint(medium)
         max-width: 220px
       @include breakpoint(medium)
@@ -136,10 +139,14 @@
       margin: 0 0 0 1.6rem
       border-left: none
       font-size: 1.2em
+      width: 80%
     p
       padding: 0 0 0 3em
       margin: 0
       line-height: 1.4
+    a
+      border: 0
+      color: $grey-1
   .address::before
     content: url(./images/map-marker.svg)
     display: inline-block

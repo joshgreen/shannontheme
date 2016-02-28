@@ -46,15 +46,16 @@
 
   <div class="site-branding">
     <div class="site-logo">
-      <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><img src="<?php bloginfo('template_url'); ?>/images/logo.png" alt="The Shannon Group"></a>
+      <h2 itemprop="name" class="hide">The Shannon Group</h2>
+      <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><img src="<?php bloginfo('template_url'); ?>/images/logo.svg" alt="The Shannon Group"></a>
     </div>
     <div class="address">
       <p>Dromenagh Farm, Seven Hills Road<br>
       Iver, Buckinghamshire, SL0 0PA</p>
     </div>
     <div class="contact">
-      <p>info@theshannongroup.co.uk<br>
-          +44 (0)1895 448 111</p>
+      <p><a href="mailto:info@theshannongroup.co.uk">info@theshannongroup.co.uk</a><br>
+         <span itemprop="telephone"><a href="tel:44-01895-448-111">+44 (0)1895 448 111</a></span></p>
     </div>
   </div>
 
