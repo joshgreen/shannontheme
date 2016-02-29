@@ -53,43 +53,47 @@ get_header(); ?>
 			    </div> -->
 			  </section>
 
-			  <section>
+			  <section class="site-quote">
 			    <blockquote>
-			      <h2>Our Mission</h2>
-			      <p>To deliver high quality construction services on time, within budget and in a safe manner through professionalism, pro-active management practices and clear commercial dealing.</p>
+			    	<div>
+			    		<h2>Our Mission</h2>
+			    	</div>
+			    	<div>
+			    		<p>To deliver high quality construction services on time, within budget and in a safe manner through professionalism, pro-active management practices and clear commercial dealing.</p>
+			    	</div>
 			    </blockquote>
 			  </section>
 
 			<section class="story bg-white">
-			  <div class="story-text">
-			    <h2 >Shannon Construction</h2>
-			    <p>Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. Donec ac neque metus. Curabitur arcu metus, suscipit id congue a, bibendum sed risus. Suspendisse eu egestas lorem. Suspendisse varius eros turpis, non ornare tellus eleifend eget. Integer feugiat tempor purus non mollis. Nullam nibh risus, accumsan efficitur risus imperdiet, suscipit vestibulum velit. Ut feugiat, magna et tempus pulvinar, orci ex sagittis tellus, at tempor nisl nulla dictum enim. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
-			    <p>Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. Donec ac neque metus. Curabitur arcu metus, suscipit id congue a, bibendum sed risus. Suspendisse eu egestas lorem. Suspendisse varius eros turpis, non ornare tellus eleifend eget. Integer feugiat tempor purus non mollis. Nullam nibh risus, accumsan efficitur risus imperdiet, suscipit vestibulum velit. Ut feugiat, magna et tempus pulvinar, orci ex sagittis tellus, at tempor nisl nulla dictum enim. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
-			  </div>
 			  <div class="story-image">
-			    <img src="" alt="">
+			    <!-- <img src="<?php bloginfo('template_url'); ?>/images/home-2.jpg" alt=""> -->
+			  </div>
+			  <div class="story-text">
+			    <h2 class="green">Shannon Construction</h2>
+			    <p>Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. </p>
+			    <p>Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. Donec ac neque metus. Curabitur arcu metus, suscipit id congue a, bibendum sed risus. Suspendisse eu egestas lorem. Suspendisse varius eros turpis, non ornare tellus eleifend eget. Integer feugiat tempor purus non mollis. Nullam nibh risus, accumsan efficitur risus imperdiet, suscipit vestibulum velit. Ut feugiat, magna et tempus pulvinar, orci ex sagittis tellus, at tempor nisl nulla dictum enim. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
 			  </div>
 			</section>
 
 			<section class="story bg-black">
-			  <div class="story-image">
-			    <img src="" alt="">
-			  </div>
 			  <div class="story-text">
 			    <h2 class="white">Shannon Haulage</h2>
+			    <p class="white">Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. Donec ac neque metus. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
 			    <p class="white">Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. Donec ac neque metus. Curabitur arcu metus, suscipit id congue a, bibendum sed risus. Suspendisse eu egestas lorem. Suspendisse varius eros turpis, non ornare tellus eleifend eget. Integer feugiat tempor purus non mollis. Nullam nibh risus, accumsan efficitur risus imperdiet, suscipit vestibulum velit. Ut feugiat, magna et tempus pulvinar, orci ex sagittis tellus, at tempor nisl nulla dictum enim. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
-			    <p class="white">Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. Donec ac neque metus. Curabitur arcu metus, suscipit id congue a, bibendum sed risus. Suspendisse eu egestas lorem. Suspendisse varius eros turpis, non ornare tellus eleifend eget. Integer feugiat tempor purus non mollis. Nullam nibh risus, accumsan efficitur risus imperdiet, suscipit vestibulum velit. Ut feugiat, magna et tempus pulvinar, orci ex sagittis tellus, at tempor nisl nulla dictum enim. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
+			  </div>
+			  <div class="story-image">
+			    <img src="" alt="">
 			  </div>
 			</section>
 
 			<section class="story bg-white">
-			  <div class="story-text">
-			    <h2>Shannon Training</h2>
-			    <p>Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. Donec ac neque metus. Curabitur arcu metus, suscipit id congue a, bibendum sed risus. Suspendisse eu egestas lorem. Suspendisse varius eros turpis, non ornare tellus eleifend eget. Integer feugiat tempor purus non mollis. Nullam nibh risus, accumsan efficitur risus imperdiet, suscipit vestibulum velit. Ut feugiat, magna et tempus pulvinar, orci ex sagittis tellus, at tempor nisl nulla dictum enim. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
-			    <p>Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. Donec ac neque metus. Curabitur arcu metus, suscipit id congue a, bibendum sed risus. Suspendisse eu egestas lorem. Suspendisse varius eros turpis, non ornare tellus eleifend eget. Integer feugiat tempor purus non mollis. Nullam nibh risus, accumsan efficitur risus imperdiet, suscipit vestibulum velit. Ut feugiat, magna et tempus pulvinar, orci ex sagittis tellus, at tempor nisl nulla dictum enim. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
-			  </div>
 			  <div class="story-image">
 			    <img src="" alt="">
+			  </div>
+			  <div class="story-text">
+			    <h2 class="green">Shannon Training</h2>
+			    <p>Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. Donec ac neque metus. Curabitur arcu metus, suscipit id congue a, bibendum sed risus. Suspendisse eu egestas lorem. Suspendisse varius eros turpis, non ornare tellus eleifend eget. Integer feugiat tempor purus non mollis. Nullam nibh risus, accumsan efficitur risus imperdiet, suscipit vestibulum velit. Ut feugiat, magna et tempus pulvinar, orci ex sagittis tellus, at tempor nisl nulla dictum enim. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
+			    <p>Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
 			  </div>
 			</section>
 

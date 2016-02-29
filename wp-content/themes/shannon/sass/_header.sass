@@ -74,6 +74,7 @@
     border: none
     border-left: 1px solid white
     appearance: none
+    transition: all 0.35s
     @include breakpoint(medium)
       width: 260px
     @include breakpoint(small)
@@ -156,6 +157,11 @@
     top: 22px
     width: 30px
     height: 30px
+    @include breakpoint(large)
+      top: 18px
+    @include breakpoint(medium)
+      top: 14px
+      left: 20px
   .contact::before
     content: url(./images/envelope.svg)
     display: inline-block
@@ -165,6 +171,14 @@
     top: 22px
     width: 30px
     height: 30px
+    @include breakpoint(large)
+      top: 16px
+    @include breakpoint(medium)
+      top: 12px
+      left: 16px
+    @include breakpoint(small)
+      top: 14px
+      left: 29px
 
 
 

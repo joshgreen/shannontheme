@@ -8,5 +8,13 @@ $('.gallery-item').magnificPopup({
 
 //
 
+$( "#mapToggle" ).click(function() {
+  $( ".map" ).toggleClass( "highlight" );
+});
+
+
+$("a").on("click", function() {
+  prevent.Default();
+});
 
 })(jQuery);
