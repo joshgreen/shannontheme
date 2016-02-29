@@ -133,26 +133,40 @@ blockquote
   margin: 0 auto
   @include group
   padding: 0
-  width: 80%
+  width: 90%
   div:first-of-type
     @include col-1-3
-    border-right: 4px solid #f6bb19
+    display: inline-block
     text-align: right
+    @include breakpoint(small)
+      text-align: center
+    &:before
+      content: '\200B'
+      display: inline-block
+      height: 100%
+      vertical-align: middle
   div:last-of-type
     @include col-2-3
     text-align: left
+    border-left: 4px solid #f6bb19
+    display: inline-block
+    @include breakpoint(small)
+      border-left: 0
+      border-top: 4px solid #f6bb19
+
   h2
     font-size: 2.125em
     border-bottom: none
-    margin: 1rem 1rem 0.2rem 0
-    line-height: 1
-    padding: 0.5rem 1rem 1rem 0
+    padding: 0rem 1rem 0 0
+    display: table-cell
+    vertical-align: middle
+    @include breakpoint(small)
+      text-align: center
   p
     font-size: 1.375em
     font-weight: 600
-
-
-
+    display: table-cell
+    vertical-align: middle
 
 address
   margin: 0 0 1.5em
@@ -186,10 +200,3 @@ small
 
 big
   font-size: 125%
-
-// form
-  // font-family: 'Lato', sans-serif
-
-
-body
-  background: eggshell

@@ -96,4 +96,44 @@ a[class$="black-chevron"]
       top: 11px
       right: 14px
 
+@include breakpoint(small)
+  a[class$="yellow-chevron"]
+    background: $yellow
+    color: $grey-1
+    padding: 0.8em 2.8em 0.8em 1.2em
+    &::after
+      content: url('./images/chevron-right-circle-bl.svg')
+      width: 9px
+      height: 9px
+      display: block
+      position: absolute
+      top: 8px
+      right: 10px
+
+  a[class$="green-chevron"]
+    background: $green
+    color: white
+    padding: 0.8em 2.8em 0.8em 1.2em
+    &::after
+      content: url('./images/chevron-right-circle-wh.svg')
+      width: 9px
+      height: 9px
+      display: block
+      position: absolute
+      top: 8px
+      right: 10px
+
+  a[class$="black-chevron"]
+    background: $grey-2
+    color: white
+    padding: 0.8em 2.8em 0.8em 1.2em
+    &::after
+      content: url('./images/chevron-right-circle-wh.svg')
+      width: 9px
+      height: 9px
+      display: block
+      position: absolute
+      top: 8px
+      right: 10px
+
 // button-yellow-chevron

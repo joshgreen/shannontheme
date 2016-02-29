@@ -70,13 +70,9 @@
              <li><a href="">Shannon Property</a></li>
            </ul>
          </div>
-         <h6>Latest project</h6>
+        <!--  <h6>Latest project</h6> -->
          <div class="mini-gallery">
-           <ul>
-             <li><a href=""><img src="" alt=""></a></li>
-             <li><a href=""><img src="" alt=""></a></li>
-             <li><a href=""><img src="" alt=""></a></li>
-           </ul>
+
          </div>
        </section>
      </div>

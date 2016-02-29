@@ -12,21 +12,35 @@
     z-index: 10
     float: left
     position: relative
+  @include breakpoint(small)
+    height: 266px
   &::before
     content: ""
     width: 100%
     height: 100%
     display: block
     background: rgba(58,58,58,0.55)
+    @include breakpoint(medium)
+      height: 460px
+    @include breakpoint(small)
+      height: 266px
 
   .text-box
     position: absolute
     top: 20%
-    width: 70%
+    width: 60%
     left: 5%
     color: white
+    @include breakpoint(large)
+      top: 12%
     @include breakpoint(medium)
       top: 5%
+    @include breakpoint(small)
+      font-size: 0.8em
+      top: 20px
+      width: 90%
+      h1
+        font-size: 3em
 
 .hide
   @include screenreader
@@ -50,12 +64,27 @@ section.story
   @include group
   padding: 0
   margin: 0
-  background: url(./images/home-1.jpg)
+  height: 100%
+  min-height: 400px
+.construction
+  background: url(./images/home-2.jpg)
   background-size: cover
   background-position: 80% 50%
   background-repeat: no-repeat
-  height: 100%
-  min-height: 600px
+
+.haulage
+  background: url(./images/home-3.jpg)
+  background-size: cover
+  background-position: 80% 50%
+  background-repeat: no-repeat
+
+.training
+  background: url(./images/home-1.jpg)
+  background-size: 120%
+  background-position: 100% 50%
+  background-repeat: no-repeat
+
+
 
 
 

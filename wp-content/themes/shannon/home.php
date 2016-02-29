@@ -14,91 +14,67 @@
 
 get_header(); ?>
 
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main max" role="main">
+  <div id="primary" class="content-area">
+    <main id="main" class="site-main max" role="main">
 
-			  <section class="slider">
-			  <div class="slide-1">
-			    <div class="text-box">
-			      <h1>Saftey is not expensive.<br>It’s priceless.</h1>
-			      <p class="intro">Sed nec ultricies urna. Quisque in ornare turpis. Nulla facilisis, mauris ut scelerisque dictum, felis tortor consequat tortor, sit amet rutrum libero leo ut leo. In sollicitudin turpis odio, a cursus justo lacinia eget.</p>
-			      <a href="" class="button-yellow-chevron">Contact us</a>
+        <section class="slider">
+          <div class="slide-1">
+            <div class="text-box">
+              <h1>Saftey is not expensive.<br>It’s priceless.</h1>
+              <p class="intro">Our core business activities include groundworks and demolition, sewer and drainage, RC slabs and frames, finishes and fit-outs, rail infrastructure, rail track renewals, and utilities infrastructure.</p>
+              <a href="" class="button-yellow-chevron">Contact us</a>
 
-			    </div>
-			  </div>
-			    <!-- <div class="flexslider">
-			      <ul class="slides">
-			        <li>
-			          <div class="slide-1">
-			            <h1>Saftey is not expensive.<br>It’s priceless.</h1>
-			            <p class="intro">Sed nec ultricies urna. Quisque in ornare turpis. Nulla facilisis, mauris ut scelerisque dictum, felis tortor consequat tortor, sit amet rutrum libero leo ut leo. In sollicitudin turpis odio, a cursus justo lacinia eget.</p>
-			            <a href="" class="button-yellow-chevron">Contact us</a>
-			          </div>
-			        </li>
-			        <li>
-			          <img src="images/kitchen_adventurer_lemon.jpg" />
-			        </li>
-			        <li>
-			          <img src="images/kitchen_adventurer_donut.jpg" />
-			        </li>
-			        <li>
-			          <img src="images/kitchen_adventurer_caramel.jpg" />
-			        </li>
-			      </ul>
-			    </div>
-			    <div class="custom-navigation">
-			      <a href="#" class="flex-prev">Prev</a>
-			      <div class="custom-controls-container"></div>
-			      <a href="#" class="flex-next">Next</a>
-			    </div> -->
-			  </section>
+            </div>
+          </div>
 
-			  <section class="site-quote">
-			    <blockquote>
-			    	<div>
-			    		<h2>Our Mission</h2>
-			    	</div>
-			    	<div>
-			    		<p>To deliver high quality construction services on time, within budget and in a safe manner through professionalism, pro-active management practices and clear commercial dealing.</p>
-			    	</div>
-			    </blockquote>
-			  </section>
+        </section>
 
-			<section class="story bg-white">
-			  <div class="story-image">
-			    <!-- <img src="<?php bloginfo('template_url'); ?>/images/home-2.jpg" alt=""> -->
-			  </div>
-			  <div class="story-text">
-			    <h2 class="green">Shannon Construction</h2>
-			    <p>Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. </p>
-			    <p>Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. Donec ac neque metus. Curabitur arcu metus, suscipit id congue a, bibendum sed risus. Suspendisse eu egestas lorem. Suspendisse varius eros turpis, non ornare tellus eleifend eget. Integer feugiat tempor purus non mollis. Nullam nibh risus, accumsan efficitur risus imperdiet, suscipit vestibulum velit. Ut feugiat, magna et tempus pulvinar, orci ex sagittis tellus, at tempor nisl nulla dictum enim. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
-			  </div>
-			</section>
+        <section class="site-quote">
+          <blockquote>
+            <div>
+              <h2>Our Mission</h2>
+            </div>
+            <div>
+              <p>To deliver high quality construction services on time, within budget and in a safe manner through professionalism, pro-active management practices and clear commercial dealing.</p>
+            </div>
+          </blockquote>
+        </section>
 
-			<section class="story bg-black">
-			  <div class="story-text">
-			    <h2 class="white">Shannon Haulage</h2>
-			    <p class="white">Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. Donec ac neque metus. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
-			    <p class="white">Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. Donec ac neque metus. Curabitur arcu metus, suscipit id congue a, bibendum sed risus. Suspendisse eu egestas lorem. Suspendisse varius eros turpis, non ornare tellus eleifend eget. Integer feugiat tempor purus non mollis. Nullam nibh risus, accumsan efficitur risus imperdiet, suscipit vestibulum velit. Ut feugiat, magna et tempus pulvinar, orci ex sagittis tellus, at tempor nisl nulla dictum enim. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
-			  </div>
-			  <div class="story-image">
-			    <img src="" alt="">
-			  </div>
-			</section>
+      <section class="story bg-white">
+        <div class="story-image construction">
+        </div>
+        <div class="story-text">
+          <h2 class="green">Shannon Construction</h2>
+          <p>Shannon Construction Limited is an experienced Building & Civil Engineering Contractor serving the needs of Developers, Contractors and private Clients on medium to large sized projects.</p>
 
-			<section class="story bg-white">
-			  <div class="story-image">
-			    <img src="" alt="">
-			  </div>
-			  <div class="story-text">
-			    <h2 class="green">Shannon Training</h2>
-			    <p>Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Curabitur eu felis ac magna egestas scelerisque. Donec ac neque metus. Curabitur arcu metus, suscipit id congue a, bibendum sed risus. Suspendisse eu egestas lorem. Suspendisse varius eros turpis, non ornare tellus eleifend eget. Integer feugiat tempor purus non mollis. Nullam nibh risus, accumsan efficitur risus imperdiet, suscipit vestibulum velit. Ut feugiat, magna et tempus pulvinar, orci ex sagittis tellus, at tempor nisl nulla dictum enim. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
-			    <p>Sed orci lectus, aliquam eget justo eu, mollis sodales mi. Curabitur nec odio tincidunt, dignissim dui ut, congue odio. Sed augue urna, finibus eu massa id, porttitor consequat lorem. Mauris nec neque erat. Proin vel mi fermentum, gravida nisi in, tristique sapien. Ut consectetur iaculis ex.</p>
-			  </div>
-			</section>
+          <p>Our core business activities include groundworks and demolition, sewer and drainage, RC slabs and frames, finishes and fit-outs, rail infrastructure, rail track renewals, and utilities infrastructure.</p>
+        </div>
+      </section>
 
-		</main><!-- #main -->
-	</div><!-- #primary -->
+      <section class="story bg-black">
+        <div class="story-text">
+          <h2 class="white">Shannon Haulage</h2>
+          <p class="white">Shannon Haulage was formed in 1994 and has provided both, internal support to group companies and external specialist haulage and logistics services to the market across Europe.</p>
+          <p class="white">The current fleet is comprised of a variety of modern vehicles ranging from bulk haulage tippers to specialist lorry mounted logistics units and heavy plant transporters.</p>
+
+        </div>
+        <div class="story-image haulage">
+        </div>
+      </section>
+
+      <section class="story bg-white">
+        <div class="story-image training">
+        </div>
+        <div class="story-text">
+          <h2 class="green">Shannon Training</h2>
+          <p>At Shannon Training we specialise in delivering a wide range of training courses for construction companies, large or small, as well as complete training requirements for all industrial and commercial organisations such as road works.</p>
+
+          <p>As a company we pride ourselves on being market leaders in training with our training centre currently being one of the busiest in the London region!</p>
+        </div>
+      </section>
+
+    </main><!-- #main -->
+  </div><!-- #primary -->
 
 <?php
 
