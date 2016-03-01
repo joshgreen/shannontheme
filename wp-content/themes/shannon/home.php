@@ -16,18 +16,43 @@ get_header(); ?>
 
   <div id="primary" class="content-area">
     <main id="main" class="site-main max" role="main">
+      <section class="hero">
+        <div class="flexslider">
+          <ul class="slides">
+            <li>
+              <div class="slide-Homeconstruction">
+               <div class="text-box">
+                 <h1>Saftey is not expensive.<br>It’s priceless.</h1>
+                 <p class="intro">Our core business activities include groundworks and demolition, sewer and drainage, RC slabs and frames, finishes and fit-outs, rail infrastructure, rail track renewals, and utilities infrastructure.</p>
+                 <a href="" class="button-yellow-chevron">Contact us</a>
+             </div>
+            </li>
+            <li>
+               <div class="slide-Homehaulage">
+                <div class="text-box">
+                  <h1>Your goods delivered on time. Everytime.</h1>
+                  <p class="intro">Shannon Haulage was formed in 1994 and has provided both, internal support to group companies and external specialist haulage and logistics services to the market across Europe.</p>
+                  <a href="" class="button-yellow-chevron">Contact us</a>
+              </div>
+            </li>
+            <li>
+              <div class="slide-Hometraining">
+               <div class="text-box">
+                 <h1>Training, testing and certifications.</h1>
+                 <p class="intro">At Shannon Training we specialise in delivering a wide range of training courses for construction companies, large or small, as well as complete training requirements for all industrial and commercial organisations such as road works.</p>
+                 <a href="" class="button-yellow-chevron">Contact us</a>
+             </div>
+            </li>
+          </ul>
+        </div>
+        <div class="custom-navigation">
+          <a href="#" class="flex-prev" title="Previous"><img src="<?php bloginfo('template_url'); ?>/images/prev.svg" alt="Previous"></a>
+          <div class="custom-controls-container"></div>
+          <a href="#" class="flex-next" title="Next"><img src="<?php bloginfo('template_url'); ?>/images/next.svg" alt="Next"></a>
+        </div>
+      </section>
 
-        <section class="slider">
-          <div class="slide-1">
-            <div class="text-box">
-              <h1>Saftey is not expensive.<br>It’s priceless.</h1>
-              <p class="intro">Our core business activities include groundworks and demolition, sewer and drainage, RC slabs and frames, finishes and fit-outs, rail infrastructure, rail track renewals, and utilities infrastructure.</p>
-              <a href="" class="button-yellow-chevron">Contact us</a>
 
-            </div>
-          </div>
-
-        </section>
 
         <section class="site-quote">
           <blockquote>

@@ -13,8 +13,6 @@ $( "#mapToggle" ).click(function() {
 });
 
 
-$("a").on("click", function() {
-  prevent.Default();
-});
+
 
 })(jQuery);

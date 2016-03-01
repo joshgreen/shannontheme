@@ -1,8 +1,8 @@
 // Home Page
-.slide-1
-  background: url(./images/slide-a.jpg)
-  background-position: 63% 14%
-  background-size: 100%
+.hero
+  position: relative
+
+.flexslider div[class^="slide"]
   background-repeat: no-repeat
   width: 100%
   height: 650px
@@ -29,7 +29,7 @@
     position: absolute
     top: 20%
     width: 60%
-    left: 5%
+    left: 10%
     color: white
     @include breakpoint(large)
       top: 12%
@@ -41,6 +41,25 @@
       width: 90%
       h1
         font-size: 3em
+
+.flexslider div[class$="Homeconstruction"]
+  background: url(./images/slide-1.jpg)
+  background-position: 63% 14%
+  background-size: 100%
+
+.flexslider  div[class$="Homehaulage"]
+  background: url(./images/slide-2.jpg)
+  background-position: 63% 14%
+  background-size: 100%
+
+.flexslider div[class$="Hometraining"]
+  background: url(./images/slide-3.jpg)
+  background-position: 63% 14%
+  background-size: 100%
+
+
+
+
 
 .hide
   @include screenreader
