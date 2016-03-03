@@ -77,14 +77,22 @@ get_header(); ?>
       </section>
 
       <section class="story bg-black">
-        <div class="story-text">
-          <h2 class="white">Shannon Haulage</h2>
-          <p class="white">Shannon Haulage was formed in 1994 and has provided both, internal support to group companies and external specialist haulage and logistics services to the market across Europe.</p>
-          <p class="white">The current fleet is comprised of a variety of modern vehicles ranging from bulk haulage tippers to specialist lorry mounted logistics units and heavy plant transporters.</p>
+           <div class="bm">
+             <div class="story-image haulage"></div>
+           </div>
+           <div class="tp">
+             <div class="padding">
+               <h2 class="white">Shannon Haulage</h2>
+               <p class="white">Shannon Haulage was formed in 1994 and has provided both, internal support to group companies and external specialist haulage and logistics services to the market across Europe.</p>
+               <p class="white">The current fleet is comprised of a variety of modern vehicles ranging from bulk haulage tippers to specialist lorry mounted logistics units and heavy plant transporters.</p>
 
-        </div>
-        <div class="story-image haulage">
-        </div>
+             </div>
+           </div>
+      </section>
+
+      <section class=" reverse">
+
+
       </section>
 
       <section class="story bg-white">

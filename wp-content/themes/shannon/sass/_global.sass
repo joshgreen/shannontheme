@@ -1,6 +1,7 @@
 // Home Page
 .hero
   position: relative
+  display: none
 
 .flexslider div[class^="slide"]
   background-repeat: no-repeat
@@ -75,9 +76,28 @@ section.story
   overflow: hidden
   border-bottom: 40px solid $bg
 
+
+.tp
+  width: 50%
+  float: left
+  @include breakpoint(small)
+    width: 100%
+    float: none
+    clear: both
+
+.bm
+  width: 50%
+  float: right
+  @include breakpoint(small)
+    width: 100%
+    float: none
+    clear: both
+
+.padding
+  padding: 1em 2em
+
 .story-text, .story-image
   @include col-1-2
-
 
 .story-image
   @include group
@@ -92,6 +112,7 @@ section.story
   background-repeat: no-repeat
 
 .haulage
+  width: 100%
   background: url(./images/home-3.jpg)
   background-size: cover
   background-position: 80% 50%
