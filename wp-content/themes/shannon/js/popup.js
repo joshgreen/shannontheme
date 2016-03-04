@@ -6,6 +6,7 @@ $('.gallery-item').magnificPopup({
   // other options
 });
 
+
 //
 
 $( "#mapToggle" ).click(function() {
@@ -16,6 +17,8 @@ $(window).load(function() {
   // When the page has loaded
   $(".hero").fadeIn(2000);
 });
+
+
 
 
 })(jQuery);
