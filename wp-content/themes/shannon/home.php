@@ -31,7 +31,7 @@ get_header(); ?>
                <div class="slide-Homehaulage">
                 <div class="text-box">
                   <h1>Your goods delivered on time. Everytime.</h1>
-                  <p class="intro">Shannon Haulage was formed in 1994 and has provided both, internal support to group companies and external specialist haulage and logistics services to the market across Europe.</p>
+                  <p class="intro">Shannon Haulage was formed in 1994 and has provided both internal support to group companies and external specialist haulage and logistics services to the market across Europe.</p>
                   <a href="" class="button-yellow-chevron">Contact us</a>
               </div>
             </li>

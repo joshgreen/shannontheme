@@ -6,7 +6,6 @@ $('.gallery-item').magnificPopup({
   // other options
 });
 
-
 //
 
 $( "#mapToggle" ).click(function() {

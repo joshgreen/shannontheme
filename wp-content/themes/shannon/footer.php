@@ -14,7 +14,7 @@
 	</div><!-- #content -->
   <footer class="site-footer max">
      <div class="footer-slogan">
-       <h1>Saftey is not expensive. It’s priceless.</h1>
+       <h1>Safety is not expensive. It’s priceless.</h1>
      </div>
      <div class="top-footer">
        <section>
@@ -23,12 +23,12 @@
          <p><a href="" class="small">Find out more</a></p>
        </section>
        <section>
-         <h5>CSCS Health & Saftey Testse</h5>
+         <h5>CSCS Health & Saftey Tests</h5>
          <p>CSCS Health & Safety tests are an important, without a current Health & Safety test you can be refused onto a construction site.</p>
          <p><a href="" class="small">Find out more</a></p>
        </section>
        <section>
-         <h5>CPCS, NPORS & NVQ's</h5>
+         <h5>CPCS, NPORS & NVQs</h5>
          <p>We carry out all our training and assessments at our very own Training centre situated in Iver (Junction 1 on the M40).</p>
          <p><a href="" class="small">Find out more</a></p>
        </section>
