@@ -19,6 +19,4 @@ $(window).load(function() {
 });
 
 
-
-
 })(jQuery);
