@@ -23,8 +23,8 @@
          <p><a href="" class="small">Find out more</a></p>
        </section>
        <section>
-         <h5>CSCS Health & Saftey Tests</h5>
-         <p>CSCS Health & Safety tests are an important, without a current Health & Safety test you can be refused onto a construction site.</p>
+         <h5>CSCS Health & Safety Tests</h5>
+         <p>CSCS Health & Safety tests are important. Without a current Health & Safety test, you can be refused entry onto a construction site.</p>
          <p><a href="" class="small">Find out more</a></p>
        </section>
        <section>
@@ -51,7 +51,7 @@
            <div class="contact">
             T: <span itemprop="telephone"><a href="tel:44-01895-448-111">+44 (0)1895 448 111</a></span><br>
             F: <span itemprop="fax">+44 (0)1895 449 111</span>
-             info@theshannongroup.co.uk
+             <a href="mailto:info@theshannongroup.co.uk">info@theshannongroup.co.uk</a>
            </div>
            <div class="social">
              <ul>
@@ -65,9 +65,10 @@
          <h6>The Shannon Group</h6>
          <div class="footer-links">
            <ul>
-             <li><a href="">Shannon Construction</a></li>
-             <li><a href="">Shannon Haulage</a></li>
-             <li><a href="">Shannon Property</a></li>
+             <li><a href="">Shannon Construction Ltd.</a></li>
+             <li><a href="">Shannon Haulage Ltd.</a></li>
+             <li><a href="">Shannon Training Ltd.</a></li>
+             <li><a href="">Shannon Property Developments Ltd.</a></li>
            </ul>
          </div>
         <!--  <h6>Latest project</h6> -->

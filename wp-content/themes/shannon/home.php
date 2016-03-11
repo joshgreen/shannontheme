@@ -22,15 +22,15 @@ get_header(); ?>
             <li>
               <div class="slide-Homeconstruction">
                <div class="text-box">
-                 <h1>Saftey is not expensive.<br>It’s priceless.</h1>
-                 <p class="intro">Our core business activities include groundworks and demolition, sewer and drainage, RC slabs and frames, finishes and fit-outs, rail infrastructure, rail track renewals, and utilities infrastructure.</p>
+                 <h1>Safety is not expensive.<br>It’s priceless.</h1>
+                 <p class="intro">Our core business activities include ground-works and demolition, sewer and drainage, RC slabs and frames, finishes and fit-outs, rail infrastructure, rail track renewals, and utilities infrastructure.</p>
                  <a href="" class="button-yellow-chevron">Contact us</a>
              </div>
             </li>
             <li>
                <div class="slide-Homehaulage">
                 <div class="text-box">
-                  <h1>Your goods delivered on time. Everytime.</h1>
+                  <h1>Your goods delivered on time. Every time.</h1>
                   <p class="intro">Shannon Haulage was formed in 1994 and has provided both internal support to group companies and external specialist haulage and logistics services to the market across Europe.</p>
                   <a href="" class="button-yellow-chevron">Contact us</a>
               </div>
@@ -72,7 +72,7 @@ get_header(); ?>
           <h2 class="green">Shannon Construction</h2>
           <p>Shannon Construction Limited is an experienced Building & Civil Engineering Contractor serving the needs of Developers, Contractors and private Clients on medium to large sized projects.</p>
 
-          <p>Our core business activities include groundworks and demolition, sewer and drainage, RC slabs and frames, finishes and fit-outs, rail infrastructure, rail track renewals, and utilities infrastructure.</p>
+          <p>Our core business activities include ground-works and demolition, sewer and drainage, RC slabs and frames, finishes and fit-outs, rail infrastructure, rail track renewals, and utilities infrastructure.</p>
         </div>
       </section>
 

@@ -27,7 +27,7 @@
 
     <div class="site-slogan">
 
-				<p class="site-description">Building & Civil Engineering Contractor with over 15 years of experience</p>
+				<p class="site-description">Delivering High Quality Construction Services for over 20 years</p>
 
     </div> <!-- .site-slogan -->
       <div class="search-box">
