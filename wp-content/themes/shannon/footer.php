@@ -35,8 +35,8 @@
      </div>
      <div class="bottom-footer">
        <section>
-         <h6>title</h6>
-         <p>Donec sit amet nibh massa. Vivamus tristique tellus vitae magna ultricies, aliquam vulputate leo tempus. Fusce non ex hendrerit, tincidunt neque ut, lobortis quam. Suspendisse at mattis metus. Vivamus sit amet porta felis. Nullam vitae ante porta, euismod justo tincidunt, ornare quam. Nunc elementum ipsum elit, nec vehicula enim sagittis ornare. Etiam nec vulputate risus. Donec a facilisis ligula. Nunc mollis ante mauris, sit amet pellentesque lorem sagittis non. Integer ut nisl eget orci accumsan convallis ut sit amet lacus. Etiam non tellus ultricies, eleifend purus at, aliquam lorem.</p>
+         <h6>The Shannon Group</h6>
+         <p>Established in 1994 The Shannon Group of companies has been specialising in Construction, Groundworks, Civil Engineering, Haulage and Training both locally and throughout the UK. The Shannon Group are proud to have worked on many projects including the Queens Terminal at Heathrow and the Cross Rail project. Our haulage fleet are all FORS and Crossrail compliant and we pride ourselves on updating the fleet regularly.</p>
        </section>
        <section>
          <h6>Contact us</h6>
