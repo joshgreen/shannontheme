@@ -41,13 +41,12 @@
         </form>
       </div> <!-- .search-box -->
 
-
   </div> <!-- .site-topbar -->
 
   <div class="site-branding">
     <div class="site-logo">
       <h2 itemprop="name" class="hide">The Shannon Group</h2>
-      <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><img src="<?php bloginfo('template_url'); ?>/images/shannon-logo.jpg" alt="The Shannon Group"></a>
+      <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><img src="<?php bloginfo('template_url'); ?>/images/shannon-group-logo-out.png" alt="The Shannon Group"></a>
     </div>
     <div class="address">
       <p>Dromenagh Farm, Seven Hills Road<br>
